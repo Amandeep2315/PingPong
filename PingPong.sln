@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong.WebAPI", "PingPong.WebAPI\PingPong.WebAPI.csproj", "{EB8E9DF1-8776-4879-95B1-75335C273DC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong.UI", "PingPong.UI\PingPong.UI.csproj", "{62E8BA42-C41E-4FEC-B708-448087283265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong.DataBaseAccess", "DataBaseAccess\PingPong.DataBaseAccess.csproj", "{4F81F07B-9D4C-45FD-B299-4A90A36A730B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong.DataContract", "PingPong.Common\PingPong.DataContract.csproj", "{7BAC8853-6C50-4DE9-BC75-607DF6638AFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PingPong.BusinessObject", "PingPong.BusinessObject\PingPong.BusinessObject.csproj", "{43BD374A-97EC-4C22-B38A-20D35BF0CC3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB8E9DF1-8776-4879-95B1-75335C273DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8E9DF1-8776-4879-95B1-75335C273DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8E9DF1-8776-4879-95B1-75335C273DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8E9DF1-8776-4879-95B1-75335C273DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E8BA42-C41E-4FEC-B708-448087283265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E8BA42-C41E-4FEC-B708-448087283265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E8BA42-C41E-4FEC-B708-448087283265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E8BA42-C41E-4FEC-B708-448087283265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F81F07B-9D4C-45FD-B299-4A90A36A730B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F81F07B-9D4C-45FD-B299-4A90A36A730B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F81F07B-9D4C-45FD-B299-4A90A36A730B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F81F07B-9D4C-45FD-B299-4A90A36A730B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BAC8853-6C50-4DE9-BC75-607DF6638AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BAC8853-6C50-4DE9-BC75-607DF6638AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BAC8853-6C50-4DE9-BC75-607DF6638AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BAC8853-6C50-4DE9-BC75-607DF6638AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43BD374A-97EC-4C22-B38A-20D35BF0CC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BD374A-97EC-4C22-B38A-20D35BF0CC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BD374A-97EC-4C22-B38A-20D35BF0CC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BD374A-97EC-4C22-B38A-20D35BF0CC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

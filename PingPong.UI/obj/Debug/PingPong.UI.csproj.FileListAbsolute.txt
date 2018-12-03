@@ -1,0 +1,174 @@
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\ApplicationInsights.config
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\roslyn\csc.exe
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\roslyn\vbc.exe
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\roslyn\VBCSCompiler.exe
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\PingPong.UI.dll.config
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\PingPong.UI.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\PingPong.UI.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Antlr3.Runtime.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\EntityFramework.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\EntityFramework.SqlServer.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.AI.Web.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Owin.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Newtonsoft.Json.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Owin.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\System.Web.Helpers.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\System.Web.Mvc.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\System.Web.Optimization.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\System.Web.Razor.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\System.Web.WebPages.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\System.Web.WebPages.Razor.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\WebGrease.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.AI.Web.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\System.Web.Helpers.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\System.Web.Mvc.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\System.Web.Optimization.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\System.Web.Razor.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\System.Web.WebPages.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\System.Web.WebPages.Razor.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Antlr3.Runtime.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Newtonsoft.Json.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\EntityFramework.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\EntityFramework.SqlServer.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Owin.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\obj\Debug\PingPong.UI.csprojAssemblyReference.cache
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\obj\Debug\PingPong.UI.csproj.CoreCompileInputs.cache
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\obj\Debug\PingPong.UI.csproj.CopyComplete
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\obj\Debug\PingPong.UI.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\obj\Debug\PingPong.UI.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\PingPong.Common.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\System.Net.Http.Formatting.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\PingPong.Common.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.UI\bin\System.Net.Http.Formatting.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\ApplicationInsights.config
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\roslyn\csc.exe
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\roslyn\vbc.exe
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\roslyn\VBCSCompiler.exe
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\PingPong.UI.dll.config
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\PingPong.UI.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\PingPong.UI.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Antlr3.Runtime.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\EntityFramework.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\EntityFramework.SqlServer.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.AI.Web.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Owin.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.Google.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Newtonsoft.Json.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Owin.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\System.Net.Http.Formatting.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\System.Web.Helpers.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\System.Web.Mvc.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\System.Web.Optimization.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\System.Web.Razor.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\System.Web.WebPages.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\System.Web.WebPages.Razor.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\WebGrease.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.AI.Web.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\System.Net.Http.Formatting.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\System.Web.Helpers.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\System.Web.Mvc.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\System.Web.Optimization.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\System.Web.Razor.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\System.Web.WebPages.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\System.Web.WebPages.Razor.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Antlr3.Runtime.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Newtonsoft.Json.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\EntityFramework.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\EntityFramework.SqlServer.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Owin.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.Google.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\obj\Debug\PingPong.UI.csprojResolveAssemblyReference.cache
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\obj\Debug\PingPong.UI.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\obj\Debug\PingPong.UI.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\PingPong.DataContract.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.UI\bin\PingPong.DataContract.pdb

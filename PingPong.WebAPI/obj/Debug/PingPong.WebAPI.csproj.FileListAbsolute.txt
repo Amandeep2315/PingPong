@@ -1,0 +1,222 @@
+C:\Study\PingPong\PingPong.WebAPI\bin\ApplicationInsights.config
+C:\Study\PingPong\PingPong.WebAPI\bin\roslyn\csc.exe
+C:\Study\PingPong\PingPong.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Study\PingPong\PingPong.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Study\PingPong\PingPong.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\roslyn\vbc.exe
+C:\Study\PingPong\PingPong.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Study\PingPong\PingPong.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Study\PingPong\PingPong.WebAPI\bin\PingPong.WebAPI.dll.config
+C:\Study\PingPong\PingPong.WebAPI\bin\PingPong.WebAPI.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\PingPong.WebAPI.pdb
+C:\Study\PingPong\PingPong.WebAPI\bin\AutoMapper.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\DataBaseAccess.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\EntityFramework.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\Newtonsoft.Json.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\PingPong.Common.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\System.ValueTuple.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\System.Web.Http.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\DataBaseAccess.pdb
+C:\Study\PingPong\PingPong.WebAPI\bin\PingPong.Common.pdb
+C:\Study\PingPong\PingPong.WebAPI\bin\AutoMapper.pdb
+C:\Study\PingPong\PingPong.WebAPI\bin\AutoMapper.xml
+C:\Study\PingPong\PingPong.WebAPI\bin\EntityFramework.xml
+C:\Study\PingPong\PingPong.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Study\PingPong\PingPong.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Study\PingPong\PingPong.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Study\PingPong\PingPong.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Study\PingPong\PingPong.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Study\PingPong\PingPong.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Study\PingPong\PingPong.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Study\PingPong\PingPong.WebAPI\bin\System.ValueTuple.xml
+C:\Study\PingPong\PingPong.WebAPI\bin\Newtonsoft.Json.xml
+C:\Study\PingPong\PingPong.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Study\PingPong\PingPong.WebAPI\bin\System.Web.Http.xml
+C:\Study\PingPong\PingPong.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Study\PingPong\PingPong.WebAPI\obj\Debug\PingPong.WebAPI.csprojResolveAssemblyReference.cache
+C:\Study\PingPong\PingPong.WebAPI\obj\Debug\PingPong.WebAPI.dll
+C:\Study\PingPong\PingPong.WebAPI\obj\Debug\PingPong.WebAPI.pdb
+C:\Study\PingPong\PingPong.WebAPI\bin\CommonServiceLocator.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\Unity.Abstractions.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\Unity.Configuration.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\Unity.Container.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\Unity.Interception.Configuration.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\Unity.Interception.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\Unity.RegistrationByConvention.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\Unity.ServiceLocation.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\Unity.WebApi.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\CommonServiceLocator.pdb
+C:\Study\PingPong\PingPong.WebAPI\bin\Unity.Abstractions.pdb
+C:\Study\PingPong\PingPong.WebAPI\bin\Unity.Configuration.pdb
+C:\Study\PingPong\PingPong.WebAPI\bin\Unity.Container.pdb
+C:\Study\PingPong\PingPong.WebAPI\bin\Unity.Interception.pdb
+C:\Study\PingPong\PingPong.WebAPI\bin\Unity.Interception.Configuration.pdb
+C:\Study\PingPong\PingPong.WebAPI\bin\Unity.RegistrationByConvention.pdb
+C:\Study\PingPong\PingPong.WebAPI\bin\Unity.ServiceLocation.pdb
+C:\Study\PingPong\PingPong.WebAPI\bin\PingPong.BusinessObject.dll
+C:\Study\PingPong\PingPong.WebAPI\bin\PingPong.BusinessObject.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\roslyn\csc.exe
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\roslyn\vbc.exe
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\ApplicationInsights.config
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\PingPong.WebAPI.dll.config
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\PingPong.WebAPI.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\PingPong.WebAPI.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\AutoMapper.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\CommonServiceLocator.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\DataBaseAccess.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\EntityFramework.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Newtonsoft.Json.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\PingPong.BusinessObject.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\PingPong.Common.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\System.ValueTuple.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\System.Web.Http.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Unity.Abstractions.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Unity.Configuration.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Unity.Container.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Unity.Interception.Configuration.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Unity.Interception.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Unity.RegistrationByConvention.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Unity.ServiceLocation.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Unity.WebApi.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\DataBaseAccess.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\DataBaseAccess.dll.config
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\PingPong.BusinessObject.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\PingPong.Common.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\AutoMapper.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\AutoMapper.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\CommonServiceLocator.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\EntityFramework.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\System.ValueTuple.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Unity.Abstractions.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Unity.Configuration.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Unity.Container.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Unity.Interception.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Unity.Interception.Configuration.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Unity.RegistrationByConvention.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Unity.ServiceLocation.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\Newtonsoft.Json.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\System.Web.Http.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\obj\Debug\PingPong.WebAPI.csprojAssemblyReference.cache
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\obj\Debug\PingPong.WebAPI.csproj.CoreCompileInputs.cache
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\obj\Debug\PingPong.WebAPI.csproj.CopyComplete
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\obj\Debug\PingPong.WebAPI.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.WebAPI\obj\Debug\PingPong.WebAPI.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\ApplicationInsights.config
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\roslyn\csc.exe
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\roslyn\vbc.exe
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\PingPong.WebAPI.dll.config
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\PingPong.WebAPI.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\PingPong.WebAPI.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\AutoMapper.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\CommonServiceLocator.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\EntityFramework.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Microsoft.AI.Web.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Newtonsoft.Json.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\PingPong.BusinessObject.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\System.ValueTuple.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\System.Web.Http.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Unity.Abstractions.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Unity.Configuration.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Unity.Container.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Unity.Interception.Configuration.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Unity.Interception.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Unity.RegistrationByConvention.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Unity.ServiceLocation.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Unity.WebApi.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\PingPong.BusinessObject.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\AutoMapper.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\AutoMapper.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\CommonServiceLocator.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\EntityFramework.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Microsoft.AI.Web.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\System.ValueTuple.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Unity.Abstractions.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Unity.Configuration.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Unity.Container.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Unity.Interception.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Unity.Interception.Configuration.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Unity.RegistrationByConvention.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Unity.ServiceLocation.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\Newtonsoft.Json.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\System.Web.Http.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\obj\Debug\PingPong.WebAPI.csprojResolveAssemblyReference.cache
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\obj\Debug\PingPong.WebAPI.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\obj\Debug\PingPong.WebAPI.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\PingPong.DataBaseAccess.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\PingPong.DataContract.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\PingPong.DataBaseAccess.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.WebAPI\bin\PingPong.DataContract.pdb

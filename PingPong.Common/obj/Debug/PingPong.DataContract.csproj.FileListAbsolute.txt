@@ -1,0 +1,22 @@
+C:\Study\PingPong\PingPong.Common\bin\Debug\PingPong.Common.dll
+C:\Study\PingPong\PingPong.Common\bin\Debug\PingPong.Common.pdb
+C:\Study\PingPong\PingPong.Common\bin\Debug\System.ValueTuple.dll
+C:\Study\PingPong\PingPong.Common\bin\Debug\System.ValueTuple.xml
+C:\Study\PingPong\PingPong.Common\obj\Debug\PingPong.DataContract.csprojResolveAssemblyReference.cache
+C:\Study\PingPong\PingPong.Common\obj\Debug\PingPong.Common.dll
+C:\Study\PingPong\PingPong.Common\obj\Debug\PingPong.Common.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.Common\bin\Debug\PingPong.Common.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.Common\bin\Debug\PingPong.Common.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.Common\bin\Debug\System.ValueTuple.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.Common\bin\Debug\System.ValueTuple.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.Common\obj\Debug\PingPong.DataContract.csprojAssemblyReference.cache
+C:\Projects\PingPong_Latest\PingPong\PingPong.Common\obj\Debug\PingPong.DataContract.csproj.CoreCompileInputs.cache
+C:\Projects\PingPong_Latest\PingPong\PingPong.Common\obj\Debug\PingPong.DataContract.csproj.CopyComplete
+C:\Projects\PingPong_Latest\PingPong\PingPong.Common\obj\Debug\PingPong.Common.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.Common\obj\Debug\PingPong.Common.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.Common\bin\Debug\System.ValueTuple.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.Common\bin\Debug\System.ValueTuple.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.Common\bin\Debug\PingPong.DataContract.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.Common\bin\Debug\PingPong.DataContract.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.Common\obj\Debug\PingPong.DataContract.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.Common\obj\Debug\PingPong.DataContract.pdb

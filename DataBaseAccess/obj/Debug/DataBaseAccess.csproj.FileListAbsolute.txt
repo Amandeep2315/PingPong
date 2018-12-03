@@ -1,0 +1,17 @@
+C:\Study\PingPong\DataBaseAccess\bin\Debug\DataBaseAccess.dll.config
+C:\Study\PingPong\DataBaseAccess\bin\Debug\DataBaseAccess.dll
+C:\Study\PingPong\DataBaseAccess\bin\Debug\DataBaseAccess.pdb
+C:\Study\PingPong\DataBaseAccess\bin\Debug\AutoMapper.dll
+C:\Study\PingPong\DataBaseAccess\bin\Debug\EntityFramework.dll
+C:\Study\PingPong\DataBaseAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Study\PingPong\DataBaseAccess\bin\Debug\PingPong.Common.dll
+C:\Study\PingPong\DataBaseAccess\bin\Debug\System.ValueTuple.dll
+C:\Study\PingPong\DataBaseAccess\bin\Debug\PingPong.Common.pdb
+C:\Study\PingPong\DataBaseAccess\bin\Debug\AutoMapper.pdb
+C:\Study\PingPong\DataBaseAccess\bin\Debug\AutoMapper.xml
+C:\Study\PingPong\DataBaseAccess\bin\Debug\EntityFramework.xml
+C:\Study\PingPong\DataBaseAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Study\PingPong\DataBaseAccess\bin\Debug\System.ValueTuple.xml
+C:\Study\PingPong\DataBaseAccess\obj\Debug\DataBaseAccess.csprojResolveAssemblyReference.cache
+C:\Study\PingPong\DataBaseAccess\obj\Debug\DataBaseAccess.dll
+C:\Study\PingPong\DataBaseAccess\obj\Debug\DataBaseAccess.pdb

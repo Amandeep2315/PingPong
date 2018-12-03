@@ -1,0 +1,33 @@
+﻿@model PingPong.DataContract.PlayerDTO
+@{
+    ViewBag.Title = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="col-lg-push-2 col-lg-8">
+        @using (Html.BeginForm("Edit", "Home", FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+            @Html.HiddenFor(m => m.PlayerId)
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <div class="panel-title">
+                        <h4><i class="glyphicon glyphicon-edit"></i> Edit Player</h4>
+                    </div>
+                </div>
+                <div class="panel-body panel-form">
+                    @Html.Partial("_playeraddedit")
+                </div>
+                <div class="panel-footer">
+                    <div class="text-center">
+                        <button type="submit" class="btn btn-lg btn-success">
+                            Update
+                        </button>
+                        <a class="btn btn-lg btn-danger" href="@Url.Action("Index", "Home", new { })">Discard</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,47 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top:20px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+
+.form-control{
+    border-radius:20px;
+    height:40px;
+}
+
+.panel-default{
+    border-radius:10px;
+}
+
+.panel-form{
+    padding:50px;
+}
+
+.field-validation-error {
+    margin-left: 10px;
+    color: red;
+}
+
+    .field-validation-error::before {
+        font-family: 'Glyphicons Halflings';
+        content: "\e101";
+        display: inline-block;
+        padding-right: 3px;
+        padding-top:3px;
+        vertical-align: middle;
+        font-weight: 900;
+    }

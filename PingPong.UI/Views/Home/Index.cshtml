@@ -1,0 +1,93 @@
+﻿@model List<PingPong.DataContract.PlayerDTO>
+
+
+<div class="container">
+    <div class="row" >
+        <div id="message" class="alert text-center" style="color:limegreen" ><h4>@TempData["message"]</h4></div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <div class="panel-title">
+                <h4><i class="glyphicon glyphicon-user"></i> Ping Pong Players</h4>
+            </div>
+        </div>
+        <div class="panel-body">
+            <div class="table-responsive">
+            <table class="table table-primary table-striped table-hover">
+                <thead>
+                    <tr>
+                        <th>First Name</th>
+                        <th>Last Name</th>
+                        <th>Age</th>
+                        <th>Skill Level</th>
+                        <th>Email Address</th>
+                        <th>Edit</th>
+                        <th>Delete</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model != null)
+                    {
+                        foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>
+                                    @Html.DisplayFor(m => item.FirstName)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(m => item.LastName)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(m => item.Age)
+                                </td>
+                                <td>
+                                    @Html.DisplayFor(m => item.SkillLevelType)
+                                </td>
+                                <td>@Html.DisplayFor(m => item.EmailAddress)</td>
+                                <td>
+                                    <a href="@Url.Action("Edit", "Home", new { playerID = @item.PlayerId})" class="btn btn-default"><i class="glyphicon glyphicon-edit"></i> </a>
+                                </td>
+                                <td>
+                                    <a href="#" data-playerId="@item.PlayerId" class="btn btn-danger btnDelete"><i class="glyphicon glyphicon-remove"></i> </a>
+                                </td>
+                            </tr>
+                        }
+                    }
+
+                </tbody>
+            </table>
+           </div>
+        </div>
+
+        <div class="panel-footer">
+
+            <a href="@Url.Action("Add", "Home")" class="btn btn-lg btn-success"><i class="glyphicon glyphicon-plus-sign"></i> Add Player</a>
+
+        </div>
+    </div>
+</div>
+
+<div id="deleteModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <!-- Modal content-->
+        @using (Html.BeginForm("Delete", "Home", FormMethod.Post))
+        {
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Delete</h4>
+                </div>
+
+                <input type="hidden" id="playerId" name="playerId" value="" />
+                <div class="modal-body">
+                    Are you sure you want to delete ?
+                </div>
+
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-success"><i class="glyphicon glyphicon-thumbs-up"></i>Yes</button>
+                    <button type="button" class="btn btn-danger" data-dismiss="modal"><i class="glyphicon glyphicon-thumbs-down"></i>No</button>
+                </div>
+            </div>
+        }
+    </div>
+</div>

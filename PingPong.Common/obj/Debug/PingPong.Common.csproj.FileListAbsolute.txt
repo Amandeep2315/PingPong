@@ -1,0 +1,7 @@
+C:\Study\PingPong\PingPong.Common\bin\Debug\PingPong.Common.dll
+C:\Study\PingPong\PingPong.Common\bin\Debug\PingPong.Common.pdb
+C:\Study\PingPong\PingPong.Common\bin\Debug\System.ValueTuple.dll
+C:\Study\PingPong\PingPong.Common\bin\Debug\System.ValueTuple.xml
+C:\Study\PingPong\PingPong.Common\obj\Debug\PingPong.Common.csprojResolveAssemblyReference.cache
+C:\Study\PingPong\PingPong.Common\obj\Debug\PingPong.Common.dll
+C:\Study\PingPong\PingPong.Common\obj\Debug\PingPong.Common.pdb

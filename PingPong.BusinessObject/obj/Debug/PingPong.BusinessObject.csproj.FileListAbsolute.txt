@@ -1,0 +1,36 @@
+C:\Study\PingPong\PingPong.BusinessObject\bin\Debug\PingPong.BusinessObject.dll
+C:\Study\PingPong\PingPong.BusinessObject\bin\Debug\PingPong.BusinessObject.pdb
+C:\Study\PingPong\PingPong.BusinessObject\bin\Debug\DataBaseAccess.dll
+C:\Study\PingPong\PingPong.BusinessObject\bin\Debug\PingPong.Common.dll
+C:\Study\PingPong\PingPong.BusinessObject\bin\Debug\EntityFramework.dll
+C:\Study\PingPong\PingPong.BusinessObject\bin\Debug\DataBaseAccess.pdb
+C:\Study\PingPong\PingPong.BusinessObject\bin\Debug\PingPong.Common.pdb
+C:\Study\PingPong\PingPong.BusinessObject\bin\Debug\EntityFramework.xml
+C:\Study\PingPong\PingPong.BusinessObject\obj\Debug\PingPong.BusinessObject.csprojResolveAssemblyReference.cache
+C:\Study\PingPong\PingPong.BusinessObject\obj\Debug\PingPong.BusinessObject.dll
+C:\Study\PingPong\PingPong.BusinessObject\obj\Debug\PingPong.BusinessObject.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.BusinessObject\bin\Debug\PingPong.BusinessObject.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.BusinessObject\bin\Debug\PingPong.BusinessObject.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.BusinessObject\bin\Debug\DataBaseAccess.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.BusinessObject\bin\Debug\PingPong.Common.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.BusinessObject\bin\Debug\EntityFramework.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.BusinessObject\bin\Debug\DataBaseAccess.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.BusinessObject\bin\Debug\DataBaseAccess.dll.config
+C:\Projects\PingPong_Latest\PingPong\PingPong.BusinessObject\bin\Debug\PingPong.Common.pdb
+C:\Projects\PingPong_Latest\PingPong\PingPong.BusinessObject\bin\Debug\EntityFramework.xml
+C:\Projects\PingPong_Latest\PingPong\PingPong.BusinessObject\obj\Debug\PingPong.BusinessObject.csprojAssemblyReference.cache
+C:\Projects\PingPong_Latest\PingPong\PingPong.BusinessObject\obj\Debug\PingPong.BusinessObject.csproj.CoreCompileInputs.cache
+C:\Projects\PingPong_Latest\PingPong\PingPong.BusinessObject\obj\Debug\PingPong.BusinessObject.csproj.CopyComplete
+C:\Projects\PingPong_Latest\PingPong\PingPong.BusinessObject\obj\Debug\PingPong.BusinessObject.dll
+C:\Projects\PingPong_Latest\PingPong\PingPong.BusinessObject\obj\Debug\PingPong.BusinessObject.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.BusinessObject\bin\Debug\PingPong.BusinessObject.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.BusinessObject\bin\Debug\PingPong.BusinessObject.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.BusinessObject\bin\Debug\EntityFramework.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.BusinessObject\bin\Debug\EntityFramework.xml
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.BusinessObject\obj\Debug\PingPong.BusinessObject.csprojResolveAssemblyReference.cache
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.BusinessObject\obj\Debug\PingPong.BusinessObject.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.BusinessObject\obj\Debug\PingPong.BusinessObject.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.BusinessObject\bin\Debug\PingPong.DataBaseAccess.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.BusinessObject\bin\Debug\PingPong.DataContract.dll
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.BusinessObject\bin\Debug\PingPong.DataBaseAccess.pdb
+C:\Ping_Pong\PingPong Current\PingPong\PingPong.BusinessObject\bin\Debug\PingPong.DataContract.pdb

@@ -1,0 +1,53 @@
+C:\Study\PingPong\DataBaseAccess\obj\Debug\PingPong.DataBaseAccess.csprojResolveAssemblyReference.cache
+C:\Study\PingPong\DataBaseAccess\obj\Debug\DataBaseAccess.dll
+C:\Study\PingPong\DataBaseAccess\obj\Debug\DataBaseAccess.pdb
+C:\Study\PingPong\DataBaseAccess\bin\Debug\DataBaseAccess.dll.config
+C:\Study\PingPong\DataBaseAccess\bin\Debug\DataBaseAccess.dll
+C:\Study\PingPong\DataBaseAccess\bin\Debug\DataBaseAccess.pdb
+C:\Study\PingPong\DataBaseAccess\bin\Debug\AutoMapper.dll
+C:\Study\PingPong\DataBaseAccess\bin\Debug\EntityFramework.dll
+C:\Study\PingPong\DataBaseAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Study\PingPong\DataBaseAccess\bin\Debug\PingPong.Common.dll
+C:\Study\PingPong\DataBaseAccess\bin\Debug\System.ValueTuple.dll
+C:\Study\PingPong\DataBaseAccess\bin\Debug\PingPong.Common.pdb
+C:\Study\PingPong\DataBaseAccess\bin\Debug\AutoMapper.pdb
+C:\Study\PingPong\DataBaseAccess\bin\Debug\AutoMapper.xml
+C:\Study\PingPong\DataBaseAccess\bin\Debug\EntityFramework.xml
+C:\Study\PingPong\DataBaseAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Study\PingPong\DataBaseAccess\bin\Debug\System.ValueTuple.xml
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\bin\Debug\DataBaseAccess.dll.config
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\bin\Debug\DataBaseAccess.dll
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\bin\Debug\DataBaseAccess.pdb
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\bin\Debug\AutoMapper.dll
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\bin\Debug\EntityFramework.dll
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\bin\Debug\PingPong.Common.dll
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\bin\Debug\System.ValueTuple.dll
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\bin\Debug\PingPong.Common.pdb
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\bin\Debug\AutoMapper.pdb
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\bin\Debug\AutoMapper.xml
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\bin\Debug\EntityFramework.xml
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\bin\Debug\System.ValueTuple.xml
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\obj\Debug\PingPong.DataBaseAccess.csprojAssemblyReference.cache
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\obj\Debug\PingPong.DataBaseAccess.csproj.CoreCompileInputs.cache
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\obj\Debug\PingPong.DataBaseAccess.csproj.CopyComplete
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\obj\Debug\DataBaseAccess.dll
+C:\Projects\PingPong_Latest\PingPong\DataBaseAccess\obj\Debug\DataBaseAccess.pdb
+C:\Ping_Pong\PingPong Current\PingPong\DataBaseAccess\bin\Debug\AutoMapper.dll
+C:\Ping_Pong\PingPong Current\PingPong\DataBaseAccess\bin\Debug\EntityFramework.dll
+C:\Ping_Pong\PingPong Current\PingPong\DataBaseAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Ping_Pong\PingPong Current\PingPong\DataBaseAccess\bin\Debug\System.ValueTuple.dll
+C:\Ping_Pong\PingPong Current\PingPong\DataBaseAccess\bin\Debug\AutoMapper.pdb
+C:\Ping_Pong\PingPong Current\PingPong\DataBaseAccess\bin\Debug\AutoMapper.xml
+C:\Ping_Pong\PingPong Current\PingPong\DataBaseAccess\bin\Debug\EntityFramework.xml
+C:\Ping_Pong\PingPong Current\PingPong\DataBaseAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Ping_Pong\PingPong Current\PingPong\DataBaseAccess\bin\Debug\System.ValueTuple.xml
+C:\Ping_Pong\PingPong Current\PingPong\DataBaseAccess\obj\Debug\PingPong.DataBaseAccess.csprojResolveAssemblyReference.cache
+C:\Ping_Pong\PingPong Current\PingPong\DataBaseAccess\bin\Debug\PingPong.DataBaseAccess.dll.config
+C:\Ping_Pong\PingPong Current\PingPong\DataBaseAccess\bin\Debug\PingPong.DataBaseAccess.dll
+C:\Ping_Pong\PingPong Current\PingPong\DataBaseAccess\bin\Debug\PingPong.DataBaseAccess.pdb
+C:\Ping_Pong\PingPong Current\PingPong\DataBaseAccess\bin\Debug\PingPong.DataContract.dll
+C:\Ping_Pong\PingPong Current\PingPong\DataBaseAccess\bin\Debug\PingPong.DataContract.pdb
+C:\Ping_Pong\PingPong Current\PingPong\DataBaseAccess\obj\Debug\PingPong.DataBaseAccess.dll
+C:\Ping_Pong\PingPong Current\PingPong\DataBaseAccess\obj\Debug\PingPong.DataBaseAccess.pdb
